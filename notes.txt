@@ -1,0 +1,3 @@
+to connect the server research packages
+install:
+-cors express nodemon
